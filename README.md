@@ -14,3 +14,11 @@ Sample Input for Open High and Low Stock Values-
 17
 18
 17
+
+
+Modules or Packages required
+1- SKLearn
+2- Pickle
+3- Pandas
+4- Numpy
+5- Matplotlib
