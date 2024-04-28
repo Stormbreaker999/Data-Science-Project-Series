@@ -12,6 +12,6 @@ try:
 except:
     print("Please enter input in specified format")
 try:
-    print(Predictor.predict(open, high, low))
+    print("Stock value for tomorrow", float(Predictor.predict(open, high, low)[0]))
 except:
     print("Please try again")
